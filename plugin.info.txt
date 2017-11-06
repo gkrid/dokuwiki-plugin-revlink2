@@ -1,0 +1,7 @@
+base   revlink2
+author Szymon Olewniczak
+email  solewniczak@rid.pl
+date   2017-11-06
+name   revlink2 plugin
+desc   Extend internal link syntax to allow linking to a previous revision a of page.
+url    https://www.dokuwiki.org/plugin:revlink2
